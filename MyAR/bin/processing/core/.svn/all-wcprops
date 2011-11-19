@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8837/trunk/processing/core/src/processing/core
+END
+PShapeSVG.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8748/trunk/processing/core/src/processing/core/PShapeSVG.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8386/trunk/processing/core/src/processing/core/XML.java
+END
+PImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8687/trunk/processing/core/src/processing/core/PImage.java
+END
+PApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8804/trunk/processing/core/src/processing/core/PApplet.java
+END
+PGraphicsJava2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8472/trunk/processing/core/src/processing/core/PGraphicsJava2D.java
+END
+PMatrix2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7133/trunk/processing/core/src/processing/core/PMatrix2D.java
+END
+PMatrix3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7554/trunk/processing/core/src/processing/core/PMatrix3D.java
+END
+PShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8748/trunk/processing/core/src/processing/core/PShape.java
+END
+PStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4696/trunk/processing/core/src/processing/core/PStyle.java
+END
+PGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8837/trunk/processing/core/src/processing/core/PGraphics.java
+END
+PVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8561/trunk/processing/core/src/processing/core/PVector.java
+END
+PMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7133/trunk/processing/core/src/processing/core/PMatrix.java
+END
+PFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8411/trunk/processing/core/src/processing/core/PFont.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8750/trunk/processing/core/src/processing/core/Table.java
+END
+PConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8425/trunk/processing/core/src/processing/core/PConstants.java
+END
